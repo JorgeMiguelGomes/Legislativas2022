@@ -8,6 +8,7 @@ Here you can find some Python apps that explore the datasets
 
 1. sunburst.py creates a Sunburst visualization bu electoral circle, party, type of candidate, and candidate name
 2. color_discrete_map.py is a color sequence that can be adapted to other projects. With contains a dictionary of all parties running for the 2022 elections, and the respective logo color. The color was picked from the official website or wikipedia page. 
+3. crowd.py takes data from crowdtangle and plots a graph showing the accumlated likes between 08 december 2021 and 07 january 2022 on Facebook in posts that used the hashtag #Legislativas2022 
 
 ### CONTENT 
 This folder contains video and images for reference 
@@ -66,7 +67,8 @@ Fora da Europa
 ### PRODUCTS
 
 In this folder you can find several products derived from the **PDFS_CNE** folder 
-A .csv file with circle, party, candidate, and type columns.
+1. A .csv file with circle, party, candidate, and type columns.
 **Type** stands for efective or substitute candidate
-A combined PDF file of all available PDF files 
+2. A combined PDF file of all available PDF files 
+3. A .csv file containing an already filtered and treated dataset from Crowdtangle with the search query "#Legislativas2022" between 08/12/2021 and 07/01/2022
 
