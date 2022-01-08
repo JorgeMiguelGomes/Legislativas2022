@@ -6,7 +6,8 @@ A repository with scripts and data for the Portuguese General Elections of Janua
 ### APPS 
 Here you can find some Python apps that explore the datasets
 
-1. Sunburst creates a Sunburst visualization bu electoral circle, party, type of candidate, and candidate name
+1. sunburst.py creates a Sunburst visualization bu electoral circle, party, type of candidate, and candidate name
+2. color_discrete_map.py is a color sequence that can be adapted to other projects. With contains a dictionary of all parties running for the 2022 elections, and the respective logo color. The color was picked from the official website or wikipedia page. 
 
 ### CONTENT 
 This folder contains video and images for reference 
