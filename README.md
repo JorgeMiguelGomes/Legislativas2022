@@ -71,4 +71,5 @@ In this folder you can find several products derived from the **PDFS_CNE** folde
 **Type** stands for efective or substitute candidate
 2. A combined PDF file of all available PDF files 
 3. A .csv file containing an already filtered and treated dataset from Crowdtangle with the search query "#Legislativas2022" between 08/12/2021 and 07/01/2022
+4. A folder with datasets from Crowdtangle with the search results for every candidate between 01 JAN 2022 to 07 JAN 2022
 
