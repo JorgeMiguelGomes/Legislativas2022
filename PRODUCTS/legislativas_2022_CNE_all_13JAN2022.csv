@@ -1,6 +1,6 @@
 circulo,partido,candidato,tipo
 Açores,ADN,Pedro Miguel Branco Martins,efetivo
-Açores,ADN,0lga Gorete Fonseca da Silva Vieira,efetivo
+Açores,ADN,Olga Gorete Fonseca da Silva Vieira,efetivo
 Açores,ADN,Nuno Ricardo Mendes da Silva Vieira,efetivo
 Açores,ADN,Andrea Nunes Sousa do Nascimento,efetivo
 Açores,ADN,Armando Daniel Nunes Teles de Araújo,efetivo
@@ -102,6 +102,15 @@ Açores,Ergue-te,Luísa Maria Pereira Teles,suplente
 Açores,Ergue-te,Mónica Alexandra Ramos Martins,suplente
 Açores,Ergue-te,Diogo Miguel da Silva Pinto,suplente
 Açores,Ergue-te,José Miguel Lopes Palminha Valente,suplente
+Açores,PAN,Ana Maria Paulo Teixeira,efetivo
+Açores,PAN,Frederico de Ornelas Bruges Cavaleiro Ferreira,efetivo
+Açores,PAN,Sónia Alexandra Ramalho Domingos,efetivo
+Açores,PAN,Dinarte Manuel Andrade Pimentel,efetivo
+Açores,PAN,Lúcia de Freitas Silva,efetivo
+Açores,PAN,Maria Goretti Rodrigues Marcos Cardoso,suplente
+Açores,PAN,Alexandre Miguel Dias Costa,suplente
+Açores,PAN,Micaela Dutra da Costa Salema Bicudo,suplente
+Açores,PAN,Bianca Giselle Farinha dos Santos,suplente
 Açores,R.I.R.,Eva Maria Bettencourt da Rosa,efetivo
 Açores,R.I.R.,Bruno Miguel Pimentel Martins,efetivo
 Açores,R.I.R.,Cátia Sofia Sousa Teixeira,efetivo
@@ -2087,6 +2096,7 @@ Leiria,R.I.R.,Vítor Manuel Inglês Marques Santos,efetivo
 Leiria,R.I.R.,Carina Isabel Oliveira Martinho,suplente
 Leiria,R.I.R.,Rui Gonçalo Timóteo Baptista,suplente
 Leiria,R.I.R.,Eugénia Maria Firmino Silva Falacho,suplente
+Lisboa,LIVRE,,efetivo
 Lisboa,LIVRE,Rui Miguel Marcelino Tavares Pereira,efetivo
 Lisboa,LIVRE,Isabel Rendeiro Marques Mendes Lopes,efetivo
 Lisboa,LIVRE,Carlos Manuel Guilherme Lage Teixeira,efetivo
@@ -4580,7 +4590,7 @@ Setúbal,PTP,Fernando Miguel Savedra Ramos,efetivo
 Setúbal,PTP,Sandra Serrano Barôa,efetivo
 Setúbal,PTP,Carlos Pedro do Vale,efetivo
 Setúbal,PTP,Isabel Fernanda da Cruz Costa Silva,efetivo
-Setúbal,PTP,José Dias Varga,efetivo
+Setúbal,PTP,José Dias Vargas,efetivo
 Setúbal,PTP,Cíntia Carina da Costa Silva,efetivo
 Setúbal,PTP,José Pedro Vasques Moreira,efetivo
 Setúbal,PTP,Maria Maia da Fonseca,efetivo
