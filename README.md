@@ -1,3 +1,10 @@
+# IMPORTANT  NOTICE (13 JAN 2022, 22:04h)
+
+Even if in theory (and law) the lists should be closed and published by the January 12th, it was detected that CNE was still changing files today. 
+All PDFs were downloaded again, and will be compared with the old ones to make sure that the .csv file is 100% faithful to the final lists. 
+<img width="1737" alt="Screenshot 2022-01-13 at 21 29 50" src="https://user-images.githubusercontent.com/34355337/149416546-a1160066-cf1c-4ef5-9fc4-4f61b3e40685.png">
+
+
 # Legislativas2022
 A repository with scripts and data for the Portuguese General Elections of January 2022
 
@@ -58,13 +65,11 @@ Europa
 
 Fora da Europa
 
-
-**Missing Lists on 12 JAN 2022 **
-
-
 Lisboa
 
 Castelo Branco 
+
+
 
 ### PRODUCTS
 
