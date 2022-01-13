@@ -1,6 +1,4 @@
 
-
-
 # import libraries
 import pandas as pd
 import plotly.express as px 
@@ -19,11 +17,11 @@ fig = px.sunburst(df, path=['circulo', 'partido','tipo','candidato'],color='part
 				"CDS/PP":"#0B6AB1",
 				"Ergue-te": "#BF311E",
 				"MAS": "#2B2C2C",
-				"PS": "#E31F26",
+				"PS": "#F1A0A2",
 				"LIVRE": "#00CE8C",
 				"ADN": "#204E84",
 				"BE": "#C90635",
-				"PCP - PEV - CDU": "#025298",
+				"PCP - PEV - CDU": "#F8D704",
 				"R.I.R.": "#00939D",
 				"Volt Portugal": "#502376",
 				"CHEGA": "#202056",
