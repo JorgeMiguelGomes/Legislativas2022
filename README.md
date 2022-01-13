@@ -24,8 +24,6 @@ Beja
 
 Bragança
 
-Castelo Branco
-
 Évora
 
 Faro
@@ -50,19 +48,23 @@ Madeira
 
 Açores
 
-**Missing Lists on 08 JAN 2022 **
-
 Viana do Castelo 
 
 Braga
 
 Coimbra
 
-Lisboa
-
 Europa 
 
 Fora da Europa
+
+
+**Missing Lists on 12 JAN 2022 **
+
+
+Lisboa
+
+Castelo Branco 
 
 ### PRODUCTS
 
