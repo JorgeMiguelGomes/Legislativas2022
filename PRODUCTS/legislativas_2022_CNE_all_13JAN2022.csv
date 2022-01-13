@@ -1042,8 +1042,8 @@ Castelo Branco,BE,Cristina Maria Borges dos Santos da Silva Guedes,efetivo
 Castelo Branco,BE,Sónia Alexandra Lourenço de Brito Reis,efetivo
 Castelo Branco,BE,Rui Pedro Lopes Beato,efetivo
 Castelo Branco,BE,Nuno Alexandre Ramos Costa,efetivo
-Castelo Branco,BE,Sílvio José Geraldes Lopes,suplente
 Castelo Branco,BE,Teresa Maria Gonçalves Silvestre,suplente
+Castelo Branco,BE,Sílvio José Geraldes Lopes,suplente
 Castelo Branco,BE,Catarina Marques Taborda,suplente
 Castelo Branco,Ergue-te,Jorge Vítor Gonçalves Torres,efetivo
 Castelo Branco,Ergue-te,Rui Miguel Levita Martins Monforte,efetivo
@@ -1108,6 +1108,7 @@ Castelo Branco,MAS,José Daniel Marques Ferreira,efetivo
 Castelo Branco,MAS,Maria Helena Natário Teixeira,efetivo
 Castelo Branco,MAS,Miguel Gustavo de Matos Pais Neves Dantas,suplente
 Castelo Branco,MAS,Maria Helena de Freitas Alves Fardilha Beja Lopes,suplente
+Castelo Branco,MAS,João Tiago Lopes Camacho,suplente
 Castelo Branco,PTP,Fernando Barata Joaquim,efetivo
 Castelo Branco,PTP,Maria Fernanda Fernandes Ferreira de Sousa,efetivo
 Castelo Branco,PTP,João Dias Vargas,efetivo
@@ -2096,7 +2097,6 @@ Leiria,R.I.R.,Vítor Manuel Inglês Marques Santos,efetivo
 Leiria,R.I.R.,Carina Isabel Oliveira Martinho,suplente
 Leiria,R.I.R.,Rui Gonçalo Timóteo Baptista,suplente
 Leiria,R.I.R.,Eugénia Maria Firmino Silva Falacho,suplente
-Lisboa,LIVRE,,efetivo
 Lisboa,LIVRE,Rui Miguel Marcelino Tavares Pereira,efetivo
 Lisboa,LIVRE,Isabel Rendeiro Marques Mendes Lopes,efetivo
 Lisboa,LIVRE,Carlos Manuel Guilherme Lage Teixeira,efetivo
@@ -2669,7 +2669,7 @@ Lisboa,PS,Mariana Guimarães Vieira da Silva,efetivo
 Lisboa,PS,José Duarte Piteira Rica Silvestre Cordeiro,efetivo
 Lisboa,PS,Fernando Medina Maciel Almeida Correia,efetivo
 Lisboa,PS,Graça Maria da Fonseca Caetano Gonçalves,efetivo
-Lisboa,PS,Miguel de Oliveira Pires da Costa de Matos,efetivo
+Lisboa,PS,Miguel de Oliveira Pires da Costa Matos,efetivo
 Lisboa,PS,Sérgio Alexandrino Monteiro do Monte,efetivo
 Lisboa,PS,Maria da Luz Gameiro Beja Ferreira Rosinha,efetivo
 Lisboa,PS,Marcos da Cunha e Lorena Perestrello de Vasconcelos,efetivo
@@ -2717,6 +2717,13 @@ Lisboa,PS,Ana Isabel Francisco Vitorino Rodrigues,suplente
 Lisboa,PS,João Carlos Duarte Cunha,suplente
 Lisboa,PS,Manuel Malheiro Portugal de Nascimento Lage,suplente
 Lisboa,JPP,Leonardo Manuel Gouveia Reis,efetivo
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
 Lisboa,JPP,Liliana Sónia Fenes Valente – Independente,efetivo
 Lisboa,JPP,Anita Quintino de Sousa Nunes,efetivo
 Lisboa,JPP,José António Baptista Reis,efetivo
