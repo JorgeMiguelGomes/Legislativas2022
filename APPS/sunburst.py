@@ -9,7 +9,8 @@ df = pd.read_csv('https://raw.githubusercontent.com/JorgeMiguelGomes/Legislativa
 
 # plot sunburst 
 
-fig = px.sunburst(df, path=['circulo', 'partido','tipo','candidato'],color='partido',
+fig = px.sunburst(df, path=['circulo', 'partido','tipo','nome'],color='partido',
+		hover_name="circulo",
 		# Colors were picked at each parties website 
 		color_discrete_map={
                 "PCTP/MRPP": "#E00E02",
@@ -35,7 +36,13 @@ fig = px.sunburst(df, path=['circulo', 'partido','tipo','candidato'],color='part
 				"PPD/PSD-CDS-PP - MADEIRA PRIMEIRO": "#F36D24",
 				"PPM" : "#19476C",
  				"PPD/PSD - CDS-PP - PPM – AD/Aliança Democrática": "#0031A"
-							}
+							},
+		 hover_data={'partido':False,
+                      'circulo':False,
+                      'tipo':False,
+                      'nome':False,
+
+                    },
             )
 
 fig.show()
