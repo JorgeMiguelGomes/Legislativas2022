@@ -5,7 +5,7 @@ import plotly.express as px
 
 # import csv 
 
-df = pd.read_csv('../PRODUCTS/legislativas_2022_CNE_listas_08JAN_1147.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/JorgeMiguelGomes/Legislativas2022/main/DATA/Legislativas2022_Portugal_Candidatos_Final.csv')
 
 # plot sunburst 
 
