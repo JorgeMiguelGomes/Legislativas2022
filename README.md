@@ -9,7 +9,8 @@ Also uploaded the .csv file extracted from [Política Para Todos](https://portug
 
 Original PDF files were deleted from the reop and now can be found [here](https://drive.google.com/drive/folders/1xubgNWqp3gQ8iO5xkIMoesk1RMz0qJ6b?usp=sharing)
 
-
+# 
+#
 
 # IMPORTANT  NOTICE (13 JAN 2022, 22:04h)
 
