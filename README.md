@@ -5,6 +5,8 @@ FInal .csv published with all candidates after comparing the PDF files present o
 
 Also uploaded the .csv file extracted from [Política Para Todos](https://portuguese-politics.herokuapp.com/docs#/) API with the data from **2019**
 
+## Final CSV files can be found in the *DATA* folder
+
 Original PDF files were deleted from the reop and now can be found [here](https://drive.google.com/drive/folders/1xubgNWqp3gQ8iO5xkIMoesk1RMz0qJ6b?usp=sharing)
 
 
