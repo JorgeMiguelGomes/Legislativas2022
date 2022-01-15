@@ -17,7 +17,9 @@ All candidates, by Circle, Party and Type (main or sub)
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8404637"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## All Candidates - Searchable Table
 
+<div class="flourish-embed flourish-table" data-src="visualisation/8405687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
 
 ## Candidates that changed electoral circle from 2019 to 2022 by party 
