@@ -24,6 +24,8 @@ All candidates, by Circle, Party and Type (main or sub)
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/8403515"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Candidates thay changed party from 2019 to 20222 
+## Candidates that changed party from 2019 to 20222 
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/8405052"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#
