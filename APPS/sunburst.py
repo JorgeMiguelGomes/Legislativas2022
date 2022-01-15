@@ -11,6 +11,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/JorgeMiguelGomes/Legislativa
 
 fig = px.sunburst(df, path=['circulo', 'partido','tipo','nome'],color='partido',
 		hover_name="circulo",
+		branchvalues="remainder",
 		# Colors were picked at each parties website 
 		color_discrete_map={
                 "PCTP/MRPP": "#E00E02",
