@@ -46,7 +46,10 @@ This graph shows the amount of seats occupied by members of parliament that will
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/8408614"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 This table shows those candidates and to what party they belong 
+
+
 
 <div class="flourish-embed flourish-table" data-src="visualisation/8409221"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
