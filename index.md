@@ -40,4 +40,14 @@ h/t to do [**João Pires Ribeiro**](https://twitter.com/Joaohpr) for the suggest
 
 <div class="flourish-embed flourish-table" data-src="visualisation/8405587"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Members of 2019's Parliament that will not return 
+
+This graph shows the amount of seats occupied by members of parliament that will not be running in the 2022's elections 
+
+<div class="flourish-embed flourish-parliament" data-src="visualisation/8408614"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This table shows those candidates and to what party they belong 
+
+<div class="flourish-embed flourish-table" data-src="visualisation/8409221"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
