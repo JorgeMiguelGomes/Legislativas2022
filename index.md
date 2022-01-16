@@ -9,6 +9,9 @@ All candidates, by Circle, Party and Type (main or sub). Data extracted using th
 [**Legislativas 2022**](https://github.com/JorgeMiguelGomes/Legislativas2022/blob/main/DATA/Legislativas2019_Portugal_Candidatos_Final.csv)
 All candidates, by Circle, Party and Type (main or sub)
 
+## Want to know more about the upcoming 2022 Legislative elections?
+Head to ["Política para todos"](https://politicaparatodos.pt), a citizen driven initiative. 
+
 ## DATAVIZ
 
 
