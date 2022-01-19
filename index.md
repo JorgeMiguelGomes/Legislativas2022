@@ -23,6 +23,10 @@ Head to ["Política para todos"](https://politicaparatodos.pt), a citizen driven
 ## All Candidates - Searchable Table
 
 <div class="flourish-embed flourish-table" data-src="visualisation/8405687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Parties by gender percentage in each list 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8454378"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
 
 ## Candidates that changed electoral circle from 2019 to 2022 by party 
