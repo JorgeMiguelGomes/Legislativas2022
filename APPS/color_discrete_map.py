@@ -6,7 +6,7 @@ color_discrete_map={
 				"CDS/PP":"#0B6AB1",
 				"Ergue-te": "#BF311E",
 				"MAS": "#2B2C2C",
-				"PS": "#E31F26",
+				"PS": "#F1A0A2",
 				"LIVRE": "#00CE8C",
 				"ADN": "#204E84",
 				"BE": "#C90635",
